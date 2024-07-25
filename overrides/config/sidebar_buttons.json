@@ -12,7 +12,7 @@
 		"toggle.night": true
 	},
 	"ftbessentials": {
-		"trash_can": true
+		"trash_can": false
 	},
 	"ftbchunks": {
 		"chunks": true,

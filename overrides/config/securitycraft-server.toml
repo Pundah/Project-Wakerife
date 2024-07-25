@@ -32,9 +32,9 @@ retinalScannerFace = true
 enable_team_ownership = false
 #Set this to true to disable sending the message that SecurityCraft shows when a player joins.
 #Note, that this stops showing the message for every player, even those that want to see them.
-disable_thanks_message = false
+disable_thanks_message = true
 #Set this to true if you want players wearing a different player's skull to be able to trick their retinal scanners and scanner doors into activating.
-trick_scanners_with_player_heads = false
+trick_scanners_with_player_heads = true
 #Set this to true to prevent players from glitching through a floor made of reinforced blocks using a boat. This is achieved by not letting players exit a boat in a way that would place them inside reinforced blocks.
 prevent_reinforced_floor_glitching = false
 #Set the amount of damage the taser inflicts onto the mobs it hits. Default is half a heart.
