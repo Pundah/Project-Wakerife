@@ -1,4 +1,25 @@
 {
-	chapter.4AA4C1A2D129F384.title: "Easy Beginnings"
-	chapter_group.3292C2B1D380436B.title: "Welcome!"
+	chapter.18A429E7F56AF5A9.title: "Mob Hitlist"
+	chapter.4AA4C1A2D129F384.title: "Welcome!"
+	chapter.732824E03978A934.title: "Main Quest: Part 1"
+	quest.1C22779AB86F0854.quest_desc: ["Quests in this questbook are optional, however will provide a guide to follow."]
+	quest.52FD004A8257E6DD.quest_desc: ["We are excited you are here!"]
+	quest.52FD004A8257E6DD.quest_subtitle: "Welcome to Project Wakerife"
+	quest.5CF320E9C4C1B1E1.title: "Minecraft!"
+	quest.5F63D109C7273980.quest_desc: ["Press M to Claim Chunks."]
+	quest.618AD36AC05B8177.quest_desc: ["Use the command &3/ftbteams party create&r &6(Team_Name)&r to create a team for you and your friends!"]
+	quest.691FADBE9911504C.quest_desc: [
+		"&6/sethome&r  | - Sets a waypoint that can be returned to via commands."
+		""
+		"&6/spawn&r | - N/A"
+		""
+		"&6/rtp&r | Teleports the user to a random place."
+	]
+	task.1B92E7AC3314D1FF.title: "Common Commands"
+	task.22A1B47275DF6026.title: "Welcome!"
+	task.29C7A38A3EBB1E2B.title: "Join our Discord!"
+	task.32FEBD32853B0A7C.title: "asd"
+	task.44423D7D137A1C30.title: "Create a Team"
+	task.4DD33C9627D0310B.title: "Claiming Chunks"
+	task.5D439F936D463C80.title: "Quests"
 }

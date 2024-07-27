@@ -109,6 +109,9 @@
     "tank_component": true,
     "extractor_component": true
   },
+  "hammerlib": {
+    "root": true
+  },
   "mekanism": {
     "chemical": true,
     "remove_builtin": true,

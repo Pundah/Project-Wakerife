@@ -1,0 +1,118 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "welcome"
+	group: ""
+	icon: {
+		components: {
+			"ftbquests:icon": "minecraft:textures/gui/sprites/icon/link.png"
+		}
+		id: "ftbquests:custom_icon"
+	}
+	id: "4AA4C1A2D129F384"
+	images: [{
+		click: "https://discord.gg/M4HQTQ9g9f"
+		height: 1.0d
+		image: "improvableskills:textures/gui/discord.png"
+		rotation: 0.0d
+		width: 1.0d
+		x: 0.0d
+		y: 0.0d
+	}]
+	order_index: 0
+	quest_links: [ ]
+	quests: [
+		{
+			icon: {
+				components: {
+					"ftbquests:icon": "ftbteams:textures/teams.png"
+				}
+				id: "ftbquests:custom_icon"
+			}
+			id: "618AD36AC05B8177"
+			rewards: [{
+				id: "07EFFD4243AC4042"
+				type: "xp"
+				xp: 25
+			}]
+			shape: "rsquare"
+			tasks: [{
+				id: "44423D7D137A1C30"
+				type: "checkmark"
+			}]
+			x: 3.0d
+			y: 0.0d
+		}
+		{
+			icon: {
+				components: {
+					"ftbquests:icon": "minecraft:block/repeating_command_block_front"
+				}
+				id: "ftbquests:custom_icon"
+			}
+			id: "691FADBE9911504C"
+			rewards: [{
+				id: "22B7F8A0F1CC0A5D"
+				type: "xp"
+				xp: 25
+			}]
+			shape: "rsquare"
+			tasks: [{
+				id: "1B92E7AC3314D1FF"
+				type: "checkmark"
+			}]
+			x: -1.5d
+			y: 0.0d
+		}
+		{
+			icon: {
+				components: {
+					"ftbquests:icon": "occultism:item/book_of_binding_foliot"
+				}
+				id: "ftbquests:custom_icon"
+			}
+			id: "1C22779AB86F0854"
+			rewards: [{
+				id: "2B5749E50EB4C471"
+				type: "xp"
+				xp: 25
+			}]
+			tasks: [{
+				id: "5D439F936D463C80"
+				type: "checkmark"
+			}]
+			x: -3.0d
+			y: 0.0d
+		}
+		{
+			icon: {
+				components: {
+					"ftbquests:icon": "minecraft:textures/map/decorations/taiga_village.png"
+				}
+				id: "ftbquests:custom_icon"
+			}
+			id: "5F63D109C7273980"
+			tasks: [{
+				id: "4DD33C9627D0310B"
+				type: "checkmark"
+			}]
+			x: 1.5d
+			y: 0.0d
+		}
+		{
+			icon: {
+				components: {
+					"ftbquests:icon": "minecraft:block/observer_front"
+				}
+				id: "ftbquests:custom_icon"
+			}
+			id: "52FD004A8257E6DD"
+			tasks: [{
+				id: "22A1B47275DF6026"
+				type: "checkmark"
+			}]
+			x: 0.0d
+			y: -1.0d
+		}
+	]
+}
