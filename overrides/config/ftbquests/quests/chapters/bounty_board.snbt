@@ -1,13 +1,13 @@
 {
 	default_hide_dependency_lines: false
 	default_quest_shape: ""
-	filename: "mobhitlist"
+	filename: "bounty_board"
 	group: ""
 	icon: {
-		id: "minecraft:zombie_head"
+		id: "securitycraft:whitelist_module"
 	}
 	id: "18A429E7F56AF5A9"
-	order_index: 2
+	order_index: 1
 	progression_mode: "flexible"
 	quest_links: [ ]
 	quests: [
@@ -481,32 +481,6 @@
 			}]
 			x: 4.5d
 			y: 4.5d
-		}
-		{
-			id: "56DA46DC82F6665D"
-			invisible: true
-			rewards: [
-				{
-					id: "20AEE2C8F4472343"
-					type: "xp"
-					xp: 1000
-				}
-				{
-					exclude_from_claim_all: true
-					id: "380E221DF1F736A8"
-					table_id: 5564196992594175882L
-					type: "random"
-				}
-			]
-			size: 1.5d
-			tasks: [{
-				entity: "ars_nouveau:wilden_boss"
-				id: "452B65E139D9E12D"
-				type: "kill"
-				value: 1L
-			}]
-			x: 3.0d
-			y: 7.5d
 		}
 		{
 			icon: {

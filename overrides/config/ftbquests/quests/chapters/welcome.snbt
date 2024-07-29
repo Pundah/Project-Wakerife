@@ -5,23 +5,125 @@
 	group: ""
 	icon: {
 		components: {
-			"ftbquests:icon": "minecraft:textures/gui/sprites/icon/link.png"
+			"ftbquests:icon": "wakerife:textures/wakerife-square-512.png"
 		}
 		id: "ftbquests:custom_icon"
 	}
-	id: "4AA4C1A2D129F384"
-	images: [{
-		click: "https://discord.gg/M4HQTQ9g9f"
-		height: 1.0d
-		image: "improvableskills:textures/gui/discord.png"
-		rotation: 0.0d
-		width: 1.0d
-		x: 0.0d
-		y: 0.0d
-	}]
+	id: "5B00676D79306EA2"
+	images: [
+		{
+			click: "https://discord.gg/M4HQTQ9g9f"
+			height: 1.0d
+			hover: ["Join the Discord!"]
+			image: "minecraft:textures/particle/sonic_boom_9.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 0.0d
+			y: 1.5d
+		}
+		{
+			height: 10.0d
+			image: "wakerife:textures/wakerifebg.png"
+			rotation: 0.0d
+			width: 38.32d
+			x: 0.0d
+			y: -8.0d
+		}
+	]
 	order_index: 0
+	progression_mode: "flexible"
 	quest_links: [ ]
 	quests: [
+		{
+			icon: {
+				components: {
+					"ftbquests:icon": "wakerife:textures/wakerife-square-512.png"
+				}
+				id: "ftbquests:custom_icon"
+			}
+			icon_scale: 0.9d
+			id: "3BC0A50886A3222B"
+			rewards: [{
+				id: "4956CB79E44FB523"
+				type: "xp"
+				xp: 10
+			}]
+			shape: "square"
+			size: 3.0d
+			tasks: [{
+				id: "5A1784C5676CDC62"
+				type: "checkmark"
+			}]
+			x: 0.0d
+			y: -0.49642857142856656d
+		}
+		{
+			icon: {
+				components: {
+					"ftbquests:icon": "ftbquests:item/book"
+				}
+				id: "ftbquests:custom_icon"
+			}
+			id: "3708A4780ACEB34E"
+			min_width: 250
+			rewards: [{
+				id: "4A56DF6E0204666C"
+				type: "xp"
+				xp: 10
+			}]
+			shape: "rsquare"
+			size: 1.5d
+			tasks: [{
+				id: "52BB142F044075B4"
+				type: "checkmark"
+			}]
+			x: 2.5d
+			y: -0.5d
+		}
+		{
+			icon: {
+				components: {
+					"ftbquests:icon": "ftbteams:textures/settings.png"
+				}
+				id: "ftbquests:custom_icon"
+			}
+			id: "7658C1C663394E85"
+			min_width: 350
+			rewards: [{
+				id: "5007C73E170C4FF6"
+				type: "xp"
+				xp: 10
+			}]
+			shape: "rsquare"
+			size: 1.5d
+			tasks: [{
+				id: "10A16F89D4AD238D"
+				type: "checkmark"
+			}]
+			x: -2.5d
+			y: -0.5d
+		}
+		{
+			icon: {
+				components: {
+					"ftbquests:icon": "ftbchunks:textures/waypoint_home.png"
+				}
+				id: "ftbquests:custom_icon"
+			}
+			id: "0C93D7A607AB8B83"
+			rewards: [{
+				id: "1B044C35466AFAEF"
+				type: "xp"
+				xp: 10
+			}]
+			size: 1.5d
+			tasks: [{
+				id: "103C42C743E2A2DB"
+				type: "checkmark"
+			}]
+			x: 4.5d
+			y: -0.5d
+		}
 		{
 			icon: {
 				components: {
@@ -29,90 +131,19 @@
 				}
 				id: "ftbquests:custom_icon"
 			}
-			id: "618AD36AC05B8177"
+			id: "5AC1BE754210429E"
 			rewards: [{
-				id: "07EFFD4243AC4042"
+				id: "101D2FD24AB845AC"
 				type: "xp"
-				xp: 25
+				xp: 10
 			}]
-			shape: "rsquare"
+			size: 1.5d
 			tasks: [{
-				id: "44423D7D137A1C30"
+				id: "4F13A02FB0055A62"
 				type: "checkmark"
 			}]
-			x: 3.0d
-			y: 0.0d
-		}
-		{
-			icon: {
-				components: {
-					"ftbquests:icon": "minecraft:block/repeating_command_block_front"
-				}
-				id: "ftbquests:custom_icon"
-			}
-			id: "691FADBE9911504C"
-			rewards: [{
-				id: "22B7F8A0F1CC0A5D"
-				type: "xp"
-				xp: 25
-			}]
-			shape: "rsquare"
-			tasks: [{
-				id: "1B92E7AC3314D1FF"
-				type: "checkmark"
-			}]
-			x: -1.5d
-			y: 0.0d
-		}
-		{
-			icon: {
-				components: {
-					"ftbquests:icon": "occultism:item/book_of_binding_foliot"
-				}
-				id: "ftbquests:custom_icon"
-			}
-			id: "1C22779AB86F0854"
-			rewards: [{
-				id: "2B5749E50EB4C471"
-				type: "xp"
-				xp: 25
-			}]
-			tasks: [{
-				id: "5D439F936D463C80"
-				type: "checkmark"
-			}]
-			x: -3.0d
-			y: 0.0d
-		}
-		{
-			icon: {
-				components: {
-					"ftbquests:icon": "minecraft:textures/map/decorations/taiga_village.png"
-				}
-				id: "ftbquests:custom_icon"
-			}
-			id: "5F63D109C7273980"
-			tasks: [{
-				id: "4DD33C9627D0310B"
-				type: "checkmark"
-			}]
-			x: 1.5d
-			y: 0.0d
-		}
-		{
-			icon: {
-				components: {
-					"ftbquests:icon": "minecraft:block/observer_front"
-				}
-				id: "ftbquests:custom_icon"
-			}
-			id: "52FD004A8257E6DD"
-			tasks: [{
-				id: "22A1B47275DF6026"
-				type: "checkmark"
-			}]
-			x: 0.0d
-			y: -1.0d
+			x: -4.5d
+			y: -0.5d
 		}
 	]
 }

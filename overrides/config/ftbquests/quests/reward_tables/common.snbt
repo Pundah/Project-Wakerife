@@ -82,7 +82,7 @@
 			random_bonus: 8
 			weight: 5.0f
 		}
-		{ item: { components: { "ftbquests:missing_item": "mekanismgenerators:wind_generator" }, count: 1, id: "ftbquests:missing_item" }, weight: 5.0f }
+		{ item: { count: 1, id: "mekanismgenerators:wind_generator" }, weight: 5.0f }
 		{
 			count: 4
 			item: {
@@ -252,8 +252,8 @@
 		{ item: { count: 1, id: "minecraft:beehive" }, weight: 7.0f }
 		{ item: { count: 1, id: "productivebees:advanced_oak_beehive" }, weight: 5.0f }
 		{ item: { count: 1, id: "ae2:flawless_budding_quartz" } }
-		{ item: { components: { "ftbquests:missing_item": "powah:magmator_basic" }, count: 1, id: "ftbquests:missing_item" } }
-		{ item: { components: { "ftbquests:missing_item": "powah:furnator_basic" }, count: 1, id: "ftbquests:missing_item" } }
+		{ item: { count: 1, id: "powah:magmator_basic" } }
+		{ item: { count: 1, id: "powah:furnator_basic" } }
 	]
 	use_title: true
 }

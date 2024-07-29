@@ -70,11 +70,8 @@
 		{
 			count: 4
 			item: {
-				components: {
-					"ftbquests:missing_item": "mekanismgenerators:turbine_casing"
-				}
 				count: 1
-				id: "ftbquests:missing_item"
+				id: "mekanismgenerators:turbine_casing"
 			}
 			random_bonus: 12
 			weight: 50.0f
@@ -82,11 +79,8 @@
 		{
 			count: 4
 			item: {
-				components: {
-					"ftbquests:missing_item": "mekanismgenerators:fission_reactor_casing"
-				}
 				count: 1
-				id: "ftbquests:missing_item"
+				id: "mekanismgenerators:fission_reactor_casing"
 			}
 			random_bonus: 12
 			weight: 25.0f
@@ -194,11 +188,8 @@
 		}
 		{
 			item: {
-				components: {
-					"ftbquests:missing_item": "mekanismgenerators:advanced_solar_generator"
-				}
 				count: 1
-				id: "ftbquests:missing_item"
+				id: "mekanismgenerators:advanced_solar_generator"
 			}
 			random_bonus: 2
 			weight: 50.0f
