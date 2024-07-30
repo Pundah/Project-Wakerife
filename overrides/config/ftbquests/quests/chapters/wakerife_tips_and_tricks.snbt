@@ -1,7 +1,7 @@
 {
 	default_hide_dependency_lines: false
 	default_quest_shape: "diamond"
-	filename: "tips_and_tricks"
+	filename: "wakerife_tips_and_tricks"
 	group: ""
 	icon: {
 		id: "waystones:warp_scroll"

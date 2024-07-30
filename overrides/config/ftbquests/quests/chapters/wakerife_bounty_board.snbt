@@ -1,7 +1,7 @@
 {
 	default_hide_dependency_lines: false
 	default_quest_shape: ""
-	filename: "bounty_board"
+	filename: "wakerife_bounty_board"
 	group: ""
 	icon: {
 		id: "securitycraft:whitelist_module"
@@ -448,8 +448,8 @@
 				type: "kill"
 				value: 1L
 			}]
-			x: 3.0000000000000004d
-			y: 4.5d
+			x: 4.5d
+			y: 6.0d
 		}
 		{
 			icon: {
@@ -481,58 +481,6 @@
 			}]
 			x: 4.5d
 			y: 4.5d
-		}
-		{
-			icon: {
-				components: {
-					"ftbquests:icon": "minecraft:textures/entity_icon/wandering_trader.png"
-				}
-				id: "ftbquests:custom_icon"
-			}
-			id: "0F55D0B4D5094EDB"
-			optional: true
-			rewards: [
-				{
-					id: "26EF416511A49817"
-					item: {
-						components: {
-							"minecraft:custom_name": "{\"italic\":false,\"text\":\"Sword of AlfredGG\"}"
-							"minecraft:lore": ["{\"italic\":false,\"text\":\"For those brave enough to slaughter the Mighty and Annoying Trader\"}"]
-						}
-						count: 1
-						id: "minecraft:iron_sword"
-					}
-					type: "item"
-				}
-				{
-					id: "2A9810116395C984"
-					type: "xp"
-					xp: 100
-				}
-				{
-					exclude_from_claim_all: true
-					id: "66C49399D8CCD721"
-					table_id: 487623848494439020L
-					type: "random"
-				}
-			]
-			size: 1.5d
-			tasks: [
-				{
-					entity: "minecraft:wandering_trader"
-					id: "596ABB45C0612AAF"
-					type: "kill"
-					value: 1L
-				}
-				{
-					entity: "minecraft:trader_llama"
-					id: "1D136D138EF82DA9"
-					type: "kill"
-					value: 2L
-				}
-			]
-			x: 3.75d
-			y: 6.0d
 		}
 		{
 			id: "17F3AC15ADCFB175"
@@ -1212,8 +1160,48 @@
 				type: "kill"
 				value: 1L
 			}]
-			x: 2.25d
+			x: 1.5d
 			y: 6.0d
+		}
+		{
+			dependencies: [
+				"08D1CC753F6B4283"
+				"728BE1816DA23DC0"
+				"0E20A9B79D1C6637"
+				"09C82CDDA800D8C9"
+				"35CC1F1DA9530688"
+				"5FCA4FF8C135435E"
+				"479A4E778D8D7317"
+				"555957ED58ABF8F8"
+				"2D7E335B9D780E70"
+				"6F93A02E620C69FE"
+				"180B3AFF8C552F3F"
+				"7D5B36BF3EC0C93F"
+				"2038156A13C07BFC"
+			]
+			hide_dependency_lines: true
+			hide_dependent_lines: true
+			id: "76B0707A972E41AC"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "3B966D834FFC91D4"
+					table_id: 3891941872931410618L
+					type: "loot"
+				}
+				{
+					id: "4CCCDA89D65440D4"
+					type: "xp_levels"
+					xp_levels: 20
+				}
+			]
+			size: 1.5d
+			tasks: [{
+				id: "19BBAA4EE73122BD"
+				type: "checkmark"
+			}]
+			x: 3.0d
+			y: 5.25d
 		}
 	]
 }

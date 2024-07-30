@@ -1,26 +1,19 @@
 {
 	chapter.004F28C5C85F467B.title: "Blood Magic"
 	chapter.00E59A3B38CB7EEA.title: "Insane Voltage"
-	chapter.05E614FDA677D85E.title: "Food and Farming"
-	chapter.07210DDF872160BA.title: "Applied Energistics 2"
-	chapter.0A093D8C4429B627.title: "Mekanism: &dReactors&r"
 	chapter.0A52D0932DA3F809.title: "Hostile Neural Networks"
-	chapter.0E81CBCD6B1D1895.title: "Apothic Spawners"
 	chapter.100C477F4E63F20A.title: "Create"
 	chapter.15AAF17B6665223D.title: "Refined Storage"
 	chapter.16956970FF49BB4D.title: "&aChapter 3&r: &dCreative "
 	chapter.1883B79BDB2AAE5D.title: "Botania"
-	chapter.18A429E7F56AF5A9.title: "Bounty Board"
+	chapter.18A429E7F56AF5A9.title: "Wakerife Hitlist"
 	chapter.193F91842D2ED7D9.title: "Industrial Foregoing"
 	chapter.1B175B2C955D8395.title: "Allthemodium"
 	chapter.1B8E80D09BFBD0C0.title: "Eidolon: Repraised"
-	chapter.1BE666F01EFFC00D.title: "Tips and Tricks"
+	chapter.1BE666F01EFFC00D.title: "Wakerife Tips and Tricks"
 	chapter.1D42B373285DEF81.title: "Silent Gear"
 	chapter.1DB294A8F8686321.title: "Basic Storage"
-	chapter.1FAAEF0B9FD05CB9.title: "Productive Trees"
 	chapter.220BE62A7F8EA359.title: "Zero Point Module"
-	chapter.23983F4DC524B14B.title: "Mekanism"
-	chapter.26E6ED94168A05C4.title: "Productive Bees"
 	chapter.282448C70744895F.title: "Apotheosis Enchanting"
 	chapter.29EFE8220836C79A.title: "&aChapter 2&r: &6The ATM Star"
 	chapter.3202C575456F57D2.title: "GregStar"
@@ -28,26 +21,23 @@
 	chapter.34E8FF3196478229.title: "Forbidden and Arcanus"
 	chapter.37A28F4697946CB4.title: "Low Voltage"
 	chapter.37A5A4A81CCB67E5.title: "High Voltage"
-	chapter.3C78926E5D301BA0.title: "Extreme Reactors"
 	chapter.403105E8F21D82C7.title: "Ludicrous Voltage"
 	chapter.415BA265E2C00859.title: "Getting Started"
 	chapter.435C9D14D471D326.title: "Steam Age"
 	chapter.44E9C52B25D280CB.title: "Mahou Tsukai"
 	chapter.489F28A71282B3E7.title: "Extreme Voltage"
 	chapter.4B9D26E0087CD163.title: "Basic Tools"
-	chapter.4EAAE0CEB26378A6.title: "Just Dire Things"
 	chapter.560EF4C38DEACA03.title: "Milestones"
-	chapter.5712300EF4E5E846.title: "Pylons"
 	chapter.574AC3A76DC03364.title: "Medium Voltage"
 	chapter.59395B6806F2A98A.title: "Cataclysm"
-	chapter.5B00676D79306EA2.title: "Welcome"
+	chapter.5B00676D79306EA2.title: "Welcome to Wakerife"
 	chapter.5C764279146E5E66.title: "Mystical Agriculture"
 	chapter.5D045EF1AB73DF70.title: "AllThePower"
 	chapter.60A9BBC993EB2FD2.title: "Ultra High Voltage"
 	chapter.658721DF03EC997D.title: "Thermal Series"
 	chapter.6693050B0EE71CEB.title: "Apotheosis Gear"
 	chapter.6AEDA2F9BEB57759.title: "Ars Nouveau"
-	chapter.732824E03978A934.title: "&aChapter 1&r: &bThe Beginning&r"
+	chapter.732824E03978A934.title: "&aChapter 1&r: &bVanilla Minecraft&r"
 	chapter.754B57DEA4C711A5.title: "Ultimate Voltage"
 	chapter.769974FDAD5DBEB1.title: "Ad Astra"
 	chapter.7732CF7AAA63DB3A.title: "Twilight Forest"
@@ -481,14 +471,11 @@
 	quest.050AAD831C0AE375.title: "Rejuvenated Flesh"
 	quest.0515422E36E4E9A3.quest_desc: ["Grants invisibility when sneaking."]
 	quest.051E0C85E7B71CE0.quest_desc: [
-		"I'm going to assume you've been out mining, right? It is MINEcraft after all. "
-		""
 		"You'll find a ton of new ores that might confuse you, but you can stick to the vanilla materials to get you started! "
 		""
 		"Copper is abundant and has plenty of uses for things like &aOre Hammers&r or &eDrawer Upgrades&r, so make sure to grab plenty of it! "
 		""
 		"Iron is probably one of the most important ores you'll want to get every time you run into it. The world of modded MC pretty much runs on Iron."
-		""
 	]
 	quest.051E0C85E7B71CE0.title: "The &9Metal&r Age"
 	quest.054D2D3C20C2D32F.quest_desc: [
@@ -1388,21 +1375,10 @@
 		"With a Diamond tier pickaxe, you'll be able to mine &dObsidian&r. Obsidian can be used to create a portal to the &cNether&r. "
 		""
 		"The portal frame can be many different sizes, but most go with the basic 'Door' shape. This is a hollow 4x5 shape using a minimum of 10 Obsidian. You don't have to use Obsidian for the corners, just the portal frame itself!"
-		""
-		"{image:atm:textures/questpics/gettingstarted/example_netherportal.png width:175 height:201 align:1}"
 	]
 	quest.0F3D51FFD2FE8DCB.title: "&cTo The Nether&r!"
 	quest.0F3DF502872A308E.quest_desc: ["Neutronium Doped wafers. The highest grade and quality silicon!"]
 	quest.0F3DF502872A308E.quest_subtitle: "Slices"
-	quest.0F55D0B4D5094EDB.quest_desc: [
-		"'While making a lot of the questlines for the ATM7, the Trader Villager thought it'd be funny to constantly push me around in the quest screen."
-		""
-		"Take them out. All of them.'"
-		""
-		"- AlfredGG"
-	]
-	quest.0F55D0B4D5094EDB.quest_subtitle: "'This is Personal' - AlfredGG"
-	quest.0F55D0B4D5094EDB.title: "Kill the Trader Villager and His Annoying Llamas"
 	quest.0F6FB959B352121D.quest_desc: [
 		"Have you been having any voltage issues? Well, this wire will help!"
 		""
@@ -4664,13 +4640,9 @@
 	]
 	quest.3762F8137BFD5A74.quest_desc: ["The &aCracker&r doesn't get you oil, but it does allow for processing the byproducts more efficiently! "]
 	quest.378BF828DC931F0C.quest_desc: [
-		"Personally, I hate having to run to a block just to craft. That's where the &2Crafting Stick&r comes in! "
-		""
 		"This item works as a &aPortable Crafting Table&r! "
 		""
 		"Tip: You can also put this in your &aCurios&r slot and set a &bKeybind&r to open it!"
-		""
-		""
 	]
 	quest.378BF828DC931F0C.title: "Crafting, but on a Stick"
 	quest.378C95C18798D413.quest_desc: [
@@ -5542,12 +5514,7 @@
 		"Now we have our Multi-Layered Fiber Reinforced Printed Circuit Boards, and we can directly use them in our next Tier of Processors!"
 	]
 	quest.41AE8AEA3EB144F3.quest_subtitle: "Finish em!"
-	quest.41C0948CD9D50322.quest_desc: [
-		"Here you'll find all of the rewards you can get by slaying enemies."
-		""
-		"This page is a work in progress!"
-	]
-	quest.41C0948CD9D50322.quest_subtitle: "Killing All The Things"
+	quest.41C0948CD9D50322.quest_desc: ["Here you'll find all of the rewards you can get by slaying common and elite monsters."]
 	quest.41C0948CD9D50322.title: "The Bounty Board"
 	quest.41CF7CAEE4F60CCD.quest_desc: ["When placed in the Nether and given Glowstone, the Glowstone Nest will lure in a Glowing Bee."]
 	quest.41CF7CAEE4F60CCD.quest_subtitle: "Lures a Glowing Bee in the Nether"
@@ -6510,8 +6477,6 @@
 	]
 	quest.4E384F9FEF629386.quest_subtitle: "Oh so strong!"
 	quest.4E5238F00CEED8B2.quest_desc: [
-		"Smelting down raw ores in the beginning is necessary, but you are missing out on extra resources! "
-		""
 		"There are several ways to double your output per raw ore, but one of the easiest ways is by creating and using an &eOre Hammer&r. "
 		""
 		"These will break down 1 raw ore into 2 dusts which can be smelting into ingots, effectively doubling your ingot output! "
@@ -7763,17 +7728,13 @@
 	quest.5CF2A069A3CC4EF6.quest_subtitle: "Resin + Reed"
 	quest.5CF2A069A3CC4EF6.title: "Silky Bee"
 	quest.5CF320E9C4C1B1E1.quest_desc: [
-		"ATM10 is a &aKitchensink&r pack, meaning you are free to explore and play the modpack any way that you want! "
+		"Project Wakerife is a diverse pack! With all the mods you are free to explore and play the modpack any way that you want! "
 		""
-		"However, there is an endgame goal: Making the &6ATM Star&r! "
-		""
-		"This questline serves as a guide for all players, whether you are brand new to Minecraft or you've played through previous ATM packs. It will also guide you to crafting the Star. "
+		"This questline serves as a guide for all players, whether you are brand new to Minecraft or you've played through other modpacks."
 		""
 		"Just like almost every modpack, gather some wood to get started!"
-		""
-		""
 	]
-	quest.5CF320E9C4C1B1E1.title: "&eWelcome to the Getting Started Chapter&r!"
+	quest.5CF320E9C4C1B1E1.title: "&eWelcome to Chapter #1 &r!"
 	quest.5CFBA24B3E0CDEDD.quest_desc: [
 		"While holding your Spellbook, you can press C to open up the spell creation page."
 		""
@@ -9896,6 +9857,7 @@
 	quest.76A38CCA5816CDAD.quest_desc: ["Combining Oxygen, Ethylene, and a Substrate in a &aPressurized Reaction Chamber&r will create an HDPE Pellet."]
 	quest.76A38CCA5816CDAD.title: "HDPE Pellets"
 	quest.76A4FCDF04AD6656.quest_desc: ["Can drop skulls from certain mobs or players when dealing the finishing blow. Can also be enchanted with Looting."]
+	quest.76B0707A972E41AC.title: "Complete the Hitlist"
 	quest.76BC484FC50EAEC3.quest_desc: [
 		"To enchant items, you'll need Darkstone Pedestals placed around the Forge."
 		""
@@ -10823,6 +10785,7 @@
 	task.188A83D9504A8470.title: "Observe completed IV Processing Array"
 	task.18CA627A460E3E4E.title: "Valid Ores"
 	task.18DBE4B1BAAA5CC8.title: "Blue Skies Stone Pickaxe"
+	task.19BBAA4EE73122BD.title: "Complete Hitlist"
 	task.19DF62F00979AEA2.title: "&5The Alchemist"
 	task.1A4F2611944EF2EE.title: "The Knowledge of the Gatekeeper"
 	task.1A89CC99F53A629F.title: "Re-Organization"
