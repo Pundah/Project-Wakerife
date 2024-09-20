@@ -3,7 +3,7 @@
     "version": "1.21.1",
     "modLoaders": [
       {
-        "id": "neoforge-21.1.55",
+        "id": "neoforge-21.1.56",
         "primary": true
       }
     ]
@@ -11,7 +11,7 @@
   "manifestType": "minecraftModpack",
   "manifestVersion": 1,
   "name": "Project-Wakerife",
-  "version": "0.0.19",
+  "version": "0.0.20",
   "author": "",
   "files": [
     {
@@ -350,11 +350,6 @@
       "required": true
     },
     {
-      "projectID": 443900,
-      "fileID": 5609056,
-      "required": true
-    },
-    {
       "projectID": 574409,
       "fileID": 5518192,
       "required": true
@@ -541,7 +536,7 @@
     },
     {
       "projectID": 238222,
-      "fileID": 5736325,
+      "fileID": 5738655,
       "required": true
     },
     {
@@ -642,6 +637,11 @@
     {
       "projectID": 388800,
       "fileID": 5696658,
+      "required": true
+    },
+    {
+      "projectID": 443900,
+      "fileID": 5656728,
       "required": true
     },
     {
@@ -872,11 +872,6 @@
     {
       "projectID": 252848,
       "fileID": 5696042,
-      "required": true
-    },
-    {
-      "projectID": 908741,
-      "fileID": 5681729,
       "required": true
     },
     {
